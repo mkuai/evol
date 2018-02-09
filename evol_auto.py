@@ -7,6 +7,7 @@ import wda
 
 tolerate = 30
 
+# config for ipad pro, need to be updated for other devices
 pos_start = (1215, 1800)
 pos_go = (1244, 1970)
 pos_address = (750, 750)
